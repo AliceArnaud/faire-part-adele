@@ -321,7 +321,7 @@ a {
 
 #card-back > div {
     background-image: url("adele.jpg");
-    background-size: 80vh;
+    background-size: cover;
     background-position-y: -4.5vh;
     margin:  5vh;
     position: absolute;
